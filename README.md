@@ -28,7 +28,16 @@ Create a virtual environment:
 <h4>Export Quesitons and Answers generated as PDF</h4>
 <h4>Queries your PDFs</h4>
   
-A summary report <br>
-
+<h2>A summary report</h2> <br>
+<h3>Approach Taken</h3>
+1. Went First through Official Docs of LangChain(really helpful), Gemini Pro, Google Embeddings.
+2. Read from other sources: medium blogs, articles.
+3. Created the Environment needed, started implementing the basic requirements according to the docs until matches our requirements.
+<h3>Challenges Faced</h3>
+1. Never created any similar LLM-based project before, so did go through basics first to understand the fundamentals under given time.
+2. Going through 3 new full documentations was challenging task.<br>
+<h2>Suggestions for Improvement</h2>
+1. retrieval_chain could be given access to fetch data from multiple online sources if not found accurate details in pdfs uploaded by users.<br>
+2. More paramters could be added like Create Tests and assign marks to each questions according to their difficulties and send it to shared email ids. <br>
 Thank You <br>
 Anubhav Agrawal <br>
