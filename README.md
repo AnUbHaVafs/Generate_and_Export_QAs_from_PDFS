@@ -22,7 +22,13 @@ Create a virtual environment:
     <li>streamlit run chatWithPDF.py</li>
   </ol>
 </ul>
-
+<h2>Features</h2>
+<li><h4>Uploads Multiple varied PDFs</h4></li>
+<li><h4>Generate Questions of different types: MCQS, T/F, Objective, Subjective</h4></li>
+<li><h4>Export Quesitons and Answers generated as PDF</h4></li>
+<li><h4>Queries your PDFs/h4></li>
+  
 A summary report <br>
+
 Thank You <br>
 Anubhav Agrawal <br>
