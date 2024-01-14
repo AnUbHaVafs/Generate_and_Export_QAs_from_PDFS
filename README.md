@@ -11,7 +11,6 @@ Create a virtual environment:
   <ol>
     <li>conda create -p venv python==3.10</li>
     <li>conda activate venv/</li>
-    
     <li>Get you GOOGLE_API_KEY from "https://makersuite.google.com/app/apikey"</li>
     <li>Create a .env file and place this key value pair</li>
     GOOGLE_API_KEY="YOUR_GOOGLE_API_KEY"
