@@ -6,7 +6,7 @@ Screen Recording Demo (Walkthrough): https://screenrec.com/share/35VgUEPlLf <br>
 add them as reviweer
 <h3>Generate Questions and Answers and Export them as PDF</h3>
 <h3>How to Setup ?</h3> 
-Create a virtual environment:
+
 <ul>
   <ol>
     <li>Create a virtual environment: conda create -p venv python==3.10</li>
