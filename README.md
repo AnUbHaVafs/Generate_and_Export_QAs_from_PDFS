@@ -9,7 +9,7 @@ add them as reviweer
 Create a virtual environment:
 <ul>
   <ol>
-    <li>conda create -p venv python==3.10</li>
+    <li>Create a virtual environment: conda create -p venv python==3.10</li>
     <li>conda activate venv/</li>
     <li>Get you GOOGLE_API_KEY from "https://makersuite.google.com/app/apikey"</li>
     <li>Create a .env file and place this key value pair</li>
@@ -22,13 +22,13 @@ Create a virtual environment:
     <li>streamlit run chatWithPDF.py</li>
   </ol>
 </ul>
-<br><br><br><br>
+<br><br>
 <h2>Features</h2>
 <h4>1. Uploads Multiple varied PDFs</h4>
 <h4>2. Generate Questions of different types: MCQS, T/F, Objective, Subjective</h4>
 <h4>3. Export Quesitons and Answers generated as PDF</h4>
 <h4>4. Queries your PDFs</h4>
-  <br><br>
+  <br>
 <h2>A summary report</h2> <br>
 <h3>Approach Taken</h3>
 1. Went First through Official Docs of LangChain(really helpful), Gemini Pro, Google Embeddings.<br>
