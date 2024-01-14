@@ -22,7 +22,7 @@ add them as reviweer
     <li>streamlit run chatWithPDF.py</li>
   </ol>
 </ul>
-<br><br>
+
 <h2>Features</h2>
 <h4>1. Uploads Multiple varied PDFs</h4>
 <h4>2. Generate Questions of different types: MCQS, T/F, Objective, Subjective</h4>
